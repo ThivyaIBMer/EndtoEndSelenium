@@ -1,0 +1,20 @@
+2024-02-28 19:46:28,171  INFO [main] BaseClass:41 - Get the path of properties file
+2024-02-28 19:46:28,174  INFO [main] BaseClass:45 - Load the path in properties file
+2024-02-28 19:46:28,174  INFO [main] BaseClass:49 - Get the browser from properties file
+2024-02-28 19:46:28,174  INFO [main] BaseClass:67 - Launch the edge browser
+2024-02-28 19:46:37,718  INFO [main] BaseClass:71 - Navigate to the url
+2024-02-28 19:46:44,608  INFO [main] BaseClass:73 - Maximize the browser
+2024-02-28 19:46:44,750  INFO [main] BaseClass:75 - Implemented implicit wait
+2024-02-28 19:46:45,810  INFO [main] Login:68 - *****************Calling loginApplication Method****************************
+2024-02-28 19:46:45,810  INFO [main] Login:69 - Enter username
+2024-02-28 19:46:45,872  INFO [main] Login:72 - Entered username
+2024-02-28 19:46:45,873  INFO [main] Login:74 - Clear the existing password
+2024-02-28 19:46:45,952  INFO [main] Login:78 - cleared password
+2024-02-28 19:46:45,952  INFO [main] Login:80 - Enter the password
+2024-02-28 19:46:45,998  INFO [main] Login:84 - Entered password
+2024-02-28 19:46:45,999  INFO [main] Login:86 - Click submit button
+2024-02-28 19:46:46,034  INFO [main] Login:88 - Submit button clicked
+2024-02-28 19:46:46,034  INFO [main] Login:90 - Verify the landing page text
+2024-02-28 19:46:47,629  INFO [main] Login:93 - Logged in successfully
+2024-02-28 19:46:47,630  INFO [main] Login:94 - *****************loginApplication Method Ended****************************
+2024-02-28 19:46:47,633  INFO [main] BaseClass:82 - Close the browser
